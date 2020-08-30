@@ -79,7 +79,7 @@ document.getElementById('book-form').addEventListener('submit', function(e){
         ui.clearFields();
     }
 
- 
+
 
     e.preventDefault();
 });
